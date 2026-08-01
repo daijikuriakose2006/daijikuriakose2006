@@ -39,7 +39,7 @@ const daiji: Developer = {
   title:     "Student",
   focus:     ["Web Apps", "Cloud", "AI/ML"],
   stack:     ["TypeScript", "React", "Node", "Python"],
-  currently: "Shipping SaveSphere 🚀",
+  currently: "Exploring 🚀",
   learning:  ["System Design", "DevOps"],
   motto:     "Build it clean. Ship it fast.",
   openTo:    "Collaboration & Open Source",
