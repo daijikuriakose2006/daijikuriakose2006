@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:7f00ff,100:00d4ff&text=DAIJI%20KURIAKOSE&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20TECHNICAL%20LEAD&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:7f00ff,100:00d4ff&text=DAIJI%20KURIAKOSE&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=A855F7&center=true&vCenter=true&width=700&lines=Building+Ideas+%E2%86%92+Products+%E2%86%92+Impact;Full-Stack+Web+Developer;React+%7C+Node.js+%7C+Python+%7C+MongoDB;Technical+Lead+%40+%CE%BCLearn+SJCET;Always+Learning.+Always+Building." alt="Typing SVG" />
 
@@ -36,7 +36,7 @@
 ```ts
 const daiji: Developer = {
   role:      "Full-Stack Developer",
-  title:     "Technical Lead",
+  title:     "Student",
   focus:     ["Web Apps", "Cloud", "AI/ML"],
   stack:     ["TypeScript", "React", "Node", "Python"],
   currently: "Shipping SaveSphere 🚀",
