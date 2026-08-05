@@ -54,3 +54,63 @@ const daiji: Developer = {
 </td>
 </tr>
 </table>
+
+
+
+<br/>
+I'm **Daiji Kuriakose**, a **B.Tech Computer Science & Engineering** student at **St. Joseph's College of Engineering and Technology, Palai**, with a passion for building modern, scalable, and user-centric software solutions.
+
+I enjoy transforming ideas into real-world applications by combining **responsive frontend development**, **robust backend systems**, **REST APIs**, **database design**, **authentication**, and **cloud deployment**. My goal is to create software that is not only functional but also intuitive, secure, and efficient.
+
+Beyond development, I serve as the **Technical Lead at μLearn SJCET EXECOM**, where I mentor fellow students, contribute to technical initiatives, organize developer-focused activities, and promote collaborative learning within the community.
+
+### 🎯 Currently Focused On
+
+* 🚀 Building scalable full-stack web applications
+* 🧠 Strengthening Data Structures & Algorithms and System Design
+* 🔐 Learning secure software architecture and best practices
+* 🌐 Exploring modern web technologies and cloud platforms
+* 🤝 Contributing to open-source projects and developer communities
+
+> *"Passionate about continuous learning, solving real-world problems, and creating technology that makes a difference."*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7f00ff,100:00d4ff&section=header" width="100%" />
+
+## ⚡ TECH UNIVERSE
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,python,django,nodejs,express,java,c,mongodb,mysql,git,github,postman,figma,latex,vscode&perline=10" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Frontend-React%20%7C%20JavaScript%20%7C%20TypeScript-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20Django-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data-MongoDB%20%7C%20SQL-059669?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Workflow-Git%20%7C%20GitHub%20%7C%20Postman-F59E0B?style=for-the-badge" />
+
+</div>
+
+
+
+<div align="center">
+
+
+## 📊 GITHUB COMMAND CENTER
+
+  
+
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=daijikuriakose2006&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=CBD5E1&dates=94A3B8" width="70%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=daijikuriakose2006&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="95%" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daijikuriakose2006&theme=tokyonight" width="100%" />
