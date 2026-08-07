@@ -112,10 +112,12 @@ Beyond development, I serve as the **Technical Lead at μLearn SJCET EXECOM**, w
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/daijikuriakose2006/daijikuriakose2006/output/github-contribution-grid-snake.svg"
-     alt="GitHub Contribution Snake"
-     width="100%">
 
+<img src="https://raw.githubusercontent.com/daijikuriakose2006/daijikuriakose2006/output/github-contribution-grid-snake.gif"
+  alt="GitHub Contribution Snake"
+  width="100%"/>
+
+  
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7f00ff,100:00d4ff&section=header" width="100%" />
