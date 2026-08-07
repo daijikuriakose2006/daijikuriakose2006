@@ -106,11 +106,24 @@ Beyond development, I serve as the **Technical Lead at μLearn SJCET EXECOM**, w
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=daijikuriakose2006&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="95%" />
-
 </div>
 
----
+## 🐍 My Contribution Snake
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daijikuriakose2006&theme=tokyonight" width="100%" />
+<img src="https://raw.githubusercontent.com/daijikuriakose2006/daijikuriakose2006/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7f00ff,100:00d4ff&section=header" width="100%" />
+
+<div align="center">
+
+### 💜 BUILDING TODAY. LEARNING EVERY DAY. SHIPPING TOMORROW.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:7c3aed,50:1e293b,100:0f172a&animation=twinkling" width="100%"/>
+
+</div>
+
+
